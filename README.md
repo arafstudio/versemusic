@@ -1,35 +1,25 @@
 # Verse Music
 
-[
-
-![Release](https://img.shields.io/github/v/release/arafstudio/versemusic?label=GitHub&color=E8512C&logo=github)
-
-](https://github.com/arafstudio/versemusic/releases)
-[
-
-![Downloads](https://img.shields.io/github/downloads/arafstudio/versemusic/total?label=downloads&color=4C9A2A&logo=github)
-
-](https://github.com/arafstudio/versemusic/releases)
-[
-
-![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
-
-](https://github.com/arafstudio/versemusic/releases)
-[
-
-![Edge Extension](https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white)
-
-](https://microsoftedge.microsoft.com/addons/detail/versemusic/pjhoibgjhpciifmfllpohcmaapggbmaj)
-[
-
-![Website](https://img.shields.io/badge/Website-versemusic.pages.dev-FF3B30?logo=cloudflarepages&logoColor=white)
-
-](https://versemusic.pages.dev)
-[
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2EA44F?logo=opensourceinitiative&logoColor=white)
-
-](https://github.com/arafstudio/versemusic)
+<p>
+<a href="https://github.com/arafstudio/versemusic/releases">
+<img src="https://img.shields.io/github/v/release/arafstudio/versemusic?label=GitHub&color=E8512C&logo=github">
+</a>
+<a href="https://github.com/arafstudio/versemusic/releases">
+<img src="https://img.shields.io/github/downloads/arafstudio/versemusic/total?label=downloads&color=4C9A2A&logo=github">
+</a>
+<a href="https://github.com/arafstudio/versemusic/releases">
+<img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white">
+</a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/versemusic/pjhoibgjhpciifmfllpohcmaapggbmaj">
+<img src="https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white">
+</a>
+<a href="https://versemusic.pages.dev">
+<img src="https://img.shields.io/badge/Website-versemusic.pages.dev-FF3B30?logo=cloudflarepages&logoColor=white">
+</a>
+<a href="https://github.com/arafstudio/versemusic">
+<img src="https://img.shields.io/badge/Open%20Source-Yes-2EA44F?logo=opensourceinitiative&logoColor=white">
+</a>
+</p>
 
 
 
@@ -47,11 +37,17 @@ Available on **Android** and as a **Microsoft Edge extension**.
 
 ## Get Verse Music
 
-| Platform | Link |
-|---|---|
-| Android 7.0+ | [Download from Releases](https://github.com/arafstudio/versemusic/releases) |
-| Microsoft Edge | [Add from Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/versemusic/pjhoibgjhpciifmfllpohcmaapggbmaj) |
-| Website | [versemusic.pages.dev](https://versemusic.pages.dev) |
+<p>
+<a href="https://github.com/arafstudio/versemusic/releases">
+<img src="https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/versemusic/pjhoibgjhpciifmfllpohcmaapggbmaj">
+<img src="https://img.shields.io/badge/Get-Edge%20Extension-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white">
+</a>
+<a href="https://versemusic.pages.dev">
+<img src="https://img.shields.io/badge/Visit-Website-FF3B30?style=for-the-badge&logo=cloudflarepages&logoColor=white">
+</a>
+</p>
 
 ---
 
@@ -160,4 +156,4 @@ Verse Music is open source. Found a bug or have an idea? Open an issue or send a
 
 ## Author
 
-**Al Araf**, Founder of [Araf Studio](https://arafstudio.pages.dev)
+**Al Araf**, Founder of <a href="https://arafstudio.pages.dev">Araf Studio</a>
