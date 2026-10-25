@@ -1,5 +1,36 @@
 # Verse Music
 
+[
+
+![Release](https://img.shields.io/github/v/release/arafstudio/versemusic?label=GitHub&color=E8512C&logo=github)
+
+](https://github.com/arafstudio/versemusic/releases)
+[
+
+![Downloads](https://img.shields.io/github/downloads/arafstudio/versemusic/total?label=downloads&color=4C9A2A&logo=github)
+
+](https://github.com/arafstudio/versemusic/releases)
+[
+
+![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
+
+](https://github.com/arafstudio/versemusic/releases)
+[
+
+![Edge Extension](https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white)
+
+](https://microsoftedge.microsoft.com/addons/detail/versemusic/pjhoibgjhpciifmfllpohcmaapggbmaj)
+[
+
+![Website](https://img.shields.io/badge/Website-versemusic.pages.dev-FF3B30?logo=cloudflarepages&logoColor=white)
+
+](https://versemusic.pages.dev)
+[
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2EA44F?logo=opensourceinitiative&logoColor=white)
+
+](https://github.com/arafstudio/versemusic)
+
 
 
 ![Verse Music](https://i.postimg.cc/MHLPnFHf/01-library.png)
@@ -10,7 +41,17 @@
 
 Verse Music is an open source, offline-first music app by **Araf Studio**. Library, playlists, favorites, offline downloads, a floating Dynamic Island player, song suggestions and bug reports, all in one clean dark interface.
 
-Website: [versemusic.pages.dev](https://versemusic.pages.dev)
+Available on **Android** and as a **Microsoft Edge extension**.
+
+---
+
+## Get Verse Music
+
+| Platform | Link |
+|---|---|
+| Android 7.0+ | [Download from Releases](https://github.com/arafstudio/versemusic/releases) |
+| Microsoft Edge | [Add from Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/versemusic/pjhoibgjhpciifmfllpohcmaapggbmaj) |
+| Website | [versemusic.pages.dev](https://versemusic.pages.dev) |
 
 ---
 
@@ -106,10 +147,12 @@ Request any song from Settings by adding the song name and artist name. If we li
 - Mini player on every screen
 - Song suggestions
 - In-app bug reports
+- Android app and Microsoft Edge extension
 
 ## Requirements
 
 - Android 7.0 or higher
+- Microsoft Edge for the browser extension
 
 ## Open Source
 
